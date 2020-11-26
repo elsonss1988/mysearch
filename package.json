@@ -1,0 +1,17 @@
+{
+  "name": "mysearch",
+  "version": "1.0.0",
+  "description": "",
+  "preferGlobal": true,
+  "bin": {
+    "mysearch": "./bin/search-cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "./bin"
+  ],
+  "author": "",
+  "license": "ISC"
+}
