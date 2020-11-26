@@ -1,10 +1,10 @@
 {
-  "name": "mysearch",
-  "version": "1.0.0",
+  "name": "mysearch-pesquisar",
+  "version": "3.1.7",
   "description": "~~~~\r mysearch extension\r ~~~~",
   "preferGlobal": true,
   "bin": {
-    "mysearch": "bin/search-cli.js"
+    "mysearch-pesquisar": "bin/search-cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
     "./bin"
   ],
   "author": "Elson Santos <elsonss1988@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "main": "bin/search-cli.js",
   "repository": {
     "type": "git",
